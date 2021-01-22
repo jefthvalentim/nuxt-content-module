@@ -1,0 +1,6 @@
+<template>
+<section class="container">
+ <h1>Blog</h1>
+</section>
+</template>
+
